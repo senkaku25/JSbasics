@@ -1,2 +1,2 @@
 # JSbasics
-me speed-running JS basics review
+This repository will be used to review the basics of JavaScript. 
